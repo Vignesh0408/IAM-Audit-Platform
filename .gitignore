@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vercel
+venv/
+.venv/
+*.egg-info/
+dist/
+.DS_Store
+Thumbs.db
